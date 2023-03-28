@@ -1,1 +1,1 @@
-# computer_vision
+# Модель Teacheable Machine обученная для распознавание футболок и свитеров
