@@ -2,7 +2,12 @@
 
 ## Модель Stable Diffusion V1.4
 
-Бабочки:
+
+### Бабочки:
+
+![](https://github.com/xvqpvx/computer_vision/blob/main/lab8/butterflies.png)
+
+prompt:
 
 An intense action scene where 2-3 colossal butterflies are taking over the planet Earth. 
 The image should convey a sense of chaos and destruction as the giant butterflies wreak havoc on cities and landmarks. 
@@ -20,7 +25,11 @@ terrified people, and dramatic lighting to enhance the dramatic and apocalyptic 
 Включи в нее такие элементы, как рушащиеся здания, перепуганные люди и драматическое освещение, 
 чтобы усилить драматическую и апокалиптическую атмосферу сцены.]
 
-Джон Уик:
+### Джон Уик:
+
+![](https://github.com/xvqpvx/computer_vision/blob/main/lab8/john%20wick.png)
+
+prompt:
 
 Image of John Wick firing a bubble gun, with vibrant soap bubbles floating in the air around him. 
 The scene should capture the action and intensity of the moment, while showcasing the playful nature of the soap bubbles. 
@@ -28,7 +37,11 @@ The scene should capture the action and intensity of the moment, while showcasin
 [Изображение Джона Уика, стреляющего из пистолета для пузырей, с яркими мыльными пузырями, плавающими в воздухе вокруг него.
 Сцена должна отражать действие и интенсивность момента, демонстрируя при этом игривый характер мыльных пузырей.]
 
-CJ:
+### GTA:
+
+![](https://github.com/xvqpvx/computer_vision/blob/main/lab8/cj.png)
+
+prompt:
 
 CJ found himself in the vibrant streets of Vice City, leaving behind the gritty world of San Andreas. 
 The towering skyscrapers and neon lights of the new cityscape dazzled his eyes as he embarked on a new adventure filled 
@@ -42,19 +55,32 @@ CJ was ready to make his mark and conquer the criminal underworld once again.
 
 ## Модель Realistic Vision V20
 
-Хомяк:
+### Хомяк:
+
+![](https://github.com/xvqpvx/computer_vision/blob/main/lab8/hamster.png)
+
 A digital artwork of a roborovski hamster dressed in blue wizards clothing casting a thunderstorm with lightning.
 
 [Цифровое изображение хомяка роборовского, одетого в синюю одежду волшебника, бросающего грозу с молнией.]
 
-Стимпанк:
+### Стимпанк:
+
+![](https://github.com/xvqpvx/computer_vision/blob/main/lab8/steampunk.png)
+
+prompt:
+
 Highly Detailed digital illustration about the beauty of nature in a steampunk world where all animals 
 have been replaced by mechanical beasts.
 
 [Высокодетализированная цифровая иллюстрация о красоте природы в мире стимпанка, 
 где все животные заменены механическими зверями.]
 
-Ураган:
+### Ураган:
+
+![](https://github.com/xvqpvx/computer_vision/blob/main/lab8/hurricane.png)
+
+prompt:
+
 A breathtaking image depicting a swirling hurricane composed of stars and galaxies. The scene should convey the immense 
 power and cosmic beauty of this celestial storm. Show the stars and galaxies gracefully spiraling and intertwining, 
 creating mesmerizing patterns as they are swept along by the force of the cosmic winds. The colors should be vibrant and 
@@ -73,17 +99,31 @@ its most dynamic and breathtaking form.
 
 ## Модель Deliberate V2
 
-Корабль:
+### Корабль:
+
+![](https://github.com/xvqpvx/computer_vision/blob/main/lab8/ship.png)
+
+prompt:
+
 A ship sailing on a sea of pure glowing lava, magma
 
 [Корабль, плывущий по морю чистой светящейся лавы, магмы]
 
-Джунгли:
+### Джунгли:
+
+![](https://github.com/xvqpvx/computer_vision/blob/main/lab8/jungle.png)
+
+prompt:
+
 Jungle, raining, sunrise lighting, volumetric light, hyper realistic
 
 [Джунгли, дождь, освещение восхода солнца, объемный свет, гиперреалистичный]
 
-Сова:
+### Сова:
+
+![](https://github.com/xvqpvx/computer_vision/blob/main/lab8/owl.png)
+
+prompt:
 
 Create an imaginative and whimsical illustration of a three-eyed owl that embodies a sense of magic and enchantment. 
 The owl should have a regal and wise demeanor, with its three eyes radiating an otherworldly glow. 
